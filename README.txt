@@ -1,4 +1,4 @@
-Team Alias: NOONEWANTSTOWORKWITHME
+
 Members: Tavishi Sharma
 
 Description:
